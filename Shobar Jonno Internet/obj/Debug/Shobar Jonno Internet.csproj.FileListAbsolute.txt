@@ -1,0 +1,51 @@
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\bin\Debug\Shobar Jonno Internet.exe.config
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\bin\Debug\Shobar Jonno Internet.exe
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\bin\Debug\Shobar Jonno Internet.pdb
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar Jonno Internet.csprojAssemblyReference.cache
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.Properties.Resources.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar Jonno Internet.csproj.GenerateResource.cache
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar Jonno Internet.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar Jonno Internet.exe
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar Jonno Internet.pdb
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.SJIForm.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.admin_login.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.user_login.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.admin_portal.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.user_portal.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.lite_user_reg.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.user_type.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.premium_user_reg.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.student_user_reg.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.tnc.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.GuestView.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_user_profile.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_activeuser.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_admin_profile.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_admin_crud.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_packages.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_packages_user.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_user_profile_update.resources
+D:\AIUB\C#\ShobarJonno Internet\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_public_pack_view.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar Jonno Internet.csprojAssemblyReference.cache
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_activeuser.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.admin_login.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.admin_portal.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_admin_profile.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_admin_crud.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.GuestView.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_packages.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_packages_user.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.premium_user_reg.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.SJIForm.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.student_user_reg.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.tnc.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_public_pack_view.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_user_profile_update.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.user_login.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.user_portal.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.lite_user_reg.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.uc_user_profile.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar_Jonno_Internet.user_type.resources
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar Jonno Internet.csproj.GenerateResource.cache
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar Jonno Internet.exe
+D:\AIUB\2020\C#\csharp-repository\Shobar Jonno Internet\obj\Debug\Shobar Jonno Internet.pdb

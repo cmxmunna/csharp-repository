@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D7DE361-6338-490A-B41D-95A78618370F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Shobar_Jonno_Internet</RootNamespace>
+    <AssemblyName>Shobar Jonno Internet</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="uc_activeuser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_activeuser.Designer.cs">
+      <DependentUpon>uc_activeuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_login.Designer.cs">
+      <DependentUpon>admin_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_portal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_portal.Designer.cs">
+      <DependentUpon>admin_portal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uc_admin_profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_admin_profile.Designer.cs">
+      <DependentUpon>uc_admin_profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uc_admin_crud.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_admin_crud.Designer.cs">
+      <DependentUpon>uc_admin_crud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="globals.cs" />
+    <Compile Include="GuestView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuestView.Designer.cs">
+      <DependentUpon>GuestView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uc_packages.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_packages.Designer.cs">
+      <DependentUpon>uc_packages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uc_packages_user.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_packages_user.Designer.cs">
+      <DependentUpon>uc_packages_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="premium_user_reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="premium_user_reg.Designer.cs">
+      <DependentUpon>premium_user_reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shobar Jonno Internet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shobar Jonno Internet.Designer.cs">
+      <DependentUpon>Shobar Jonno Internet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="student_user_reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="student_user_reg.Designer.cs">
+      <DependentUpon>student_user_reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tnc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tnc.Designer.cs">
+      <DependentUpon>tnc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uc_public_pack_view.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_public_pack_view.Designer.cs">
+      <DependentUpon>uc_public_pack_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uc_user_profile_update.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_user_profile_update.Designer.cs">
+      <DependentUpon>uc_user_profile_update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user_login.Designer.cs">
+      <DependentUpon>user_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_portal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user_portal.Designer.cs">
+      <DependentUpon>user_portal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lite_user_reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lite_user_reg.Designer.cs">
+      <DependentUpon>lite_user_reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uc_user_profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_user_profile.Designer.cs">
+      <DependentUpon>uc_user_profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_type.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user_type.Designer.cs">
+      <DependentUpon>user_type.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="uc_activeuser.resx">
+      <DependentUpon>uc_activeuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_login.resx">
+      <DependentUpon>admin_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_portal.resx">
+      <DependentUpon>admin_portal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uc_admin_profile.resx">
+      <DependentUpon>uc_admin_profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uc_admin_crud.resx">
+      <DependentUpon>uc_admin_crud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuestView.resx">
+      <DependentUpon>GuestView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uc_packages.resx">
+      <DependentUpon>uc_packages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uc_packages_user.resx">
+      <DependentUpon>uc_packages_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="premium_user_reg.resx">
+      <DependentUpon>premium_user_reg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shobar Jonno Internet.resx">
+      <DependentUpon>Shobar Jonno Internet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="student_user_reg.resx">
+      <DependentUpon>student_user_reg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tnc.resx">
+      <DependentUpon>tnc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uc_public_pack_view.resx">
+      <DependentUpon>uc_public_pack_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uc_user_profile_update.resx">
+      <DependentUpon>uc_user_profile_update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_login.resx">
+      <DependentUpon>user_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_portal.resx">
+      <DependentUpon>user_portal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lite_user_reg.resx">
+      <DependentUpon>lite_user_reg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uc_user_profile.resx">
+      <DependentUpon>uc_user_profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_type.resx">
+      <DependentUpon>user_type.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="images\background\Ace.gif" />
+    <Content Include="icon.ico" />
+    <Content Include="images\background\Backgrounnd.png" />
+    <Content Include="images\icon\icon_cat.ico" />
+    <None Include="images\logo\blankimage.jpg" />
+    <None Include="images\icon\IFA.gif" />
+    <Content Include="images\logo\button.png" />
+    <None Include="images\logo\label_bg.png" />
+    <None Include="images\logo\packbackground.jpg" />
+    <Content Include="images\profile\Admin.jpg" />
+    <None Include="images\profile\Farhan.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
